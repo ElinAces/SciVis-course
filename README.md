@@ -1,5 +1,5 @@
 ```mermaid
-[flowchart TD
+flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D(Laptop)
@@ -7,5 +7,5 @@
     C -->|Three| F[fa:fa-car Car]
     C -->|Four| G[mobil]
     C-->A
-    B-->D]
+    B-->D
 ```
