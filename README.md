@@ -1,4 +1,5 @@
-    A[Christmas] -->|Get money| B(Go shopping)
+   ```mermaid
+[A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D(Laptop)
     C -->|Two| E[fa:fa-iPhone Iphone]
@@ -6,3 +7,5 @@
     C -->|Four| G[mobil]
     C-->A
     B-->D
+]
+```
